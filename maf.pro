@@ -7,6 +7,7 @@ SUBDIRS += mafResources
 SUBDIRS += mafSerialization 
 SUBDIRS += mafTimeSpace 
 SUBDIRS += mafPluginVTK
+SUBDIRS += mafPluginsIrrlicht
 SUBDIRS += mafApplicationLogic
 SUBDIRS += mafGUI
 SUBDIRS += Examples/SimpleApp

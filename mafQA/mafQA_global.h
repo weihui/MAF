@@ -13,7 +13,7 @@
 #define MAFQA_GLOBAL_H
 
 #include <QtCore/qglobal.h>
-#include "mafCoreDefinitions.h"
+#include <mafCoreDefinitions.h>
 
 #if defined(MAFQA_LIBRARY)
 #  define MAFQASHARED_EXPORT Q_DECL_EXPORT
